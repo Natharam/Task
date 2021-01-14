@@ -1,0 +1,28 @@
+.empty {
+  box-sizing: border-box;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.empty h3 {
+  margin: 30px 0;
+  font-weight: 500;
+  text-align: center;
+}
+
+.go-back {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  padding: 8px 10px;
+  background: rgb(219, 219, 219);
+  border-radius: 15px;
+  transition-duration: 1.5s;
+}
+
+.go-back:hover {
+  text-decoration: none;
+  color: rgb(67, 74, 165);
+}
